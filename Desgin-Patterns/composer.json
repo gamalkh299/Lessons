@@ -1,0 +1,17 @@
+{
+  "name": "gamalkh299/desgin-patterns",
+  "description": "this composer for Design Patterns Lessons",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gamal",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "patterns\\": "patterns/"
+    }
+  }
+}
